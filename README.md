@@ -1,4 +1,6 @@
-Project: RAG-based Farmer’s Almanac Question Answering
+Project: 
+
+RAG-based Farmer’s Almanac Question Answering
 Overview
 This project combines the power of RAG, embeddings, and GPT-3.5 to create an intelligent system capable of answering user queries related to the Farmer’s Almanac. Let’s break down the components:
 
